@@ -10,6 +10,25 @@
     * react
     * redux
     * react-router
+    
+#### start
+
+backend start
+
+```
+mongod
+cd backend
+npm install
+nodemon app.js
+```
+
+front start
+
+```
+cd frontend
+yarn install
+yarn start
+```
 
 ![auth5](http://pc5chdd68.bkt.clouddn.com/redux-auth-5.png) 
 
